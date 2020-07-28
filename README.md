@@ -15,7 +15,7 @@ All "posts" for an App can be retrieved via JSON post request.
 
 ### https://api.objectpress.co/content/search
 
-All "posts" for an App can also be retrieved individually via JSON post request.
+Individual "posts" for an App can also be retrieved via JSON post request.
 
 - app: Requires App ID (string).
 - post: Requires Post ID (string).
